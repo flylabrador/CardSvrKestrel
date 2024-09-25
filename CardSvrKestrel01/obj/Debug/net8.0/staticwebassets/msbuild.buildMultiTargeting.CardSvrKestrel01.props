@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CardSvrKestrel01.props" />
+</Project>
